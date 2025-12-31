@@ -1,6 +1,6 @@
 # CV Arxiv Daily - Archives
 
-> Last updated: 2025-12-26
+> Last updated: 2025-12-31
 
 This directory contains archived papers organized by year and month.
 
@@ -10,6 +10,11 @@ This directory contains archived papers organized by year and month.
 
 #### November (11)
 
+- [2025-11-30](./2025/11/2025-11-30.md)
+- [2025-11-29](./2025/11/2025-11-29.md)
+- [2025-11-28](./2025/11/2025-11-28.md)
+- [2025-11-27](./2025/11/2025-11-27.md)
+- [2025-11-26](./2025/11/2025-11-26.md)
 - [2025-11-25](./2025/11/2025-11-25.md)
 - [2025-11-21](./2025/11/2025-11-21.md)
 - [2025-11-17](./2025/11/2025-11-17.md)
