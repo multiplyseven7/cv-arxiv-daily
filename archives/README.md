@@ -1,10 +1,16 @@
 # CV Arxiv Daily - Archives
 
-> Last updated: 2026-01-31
+> Last updated: 2026-02-01
 
 This directory contains archived papers organized by year and month.
 
 ## Archive Index
+
+### 2026
+
+#### January (01)
+
+- [2026-01-01](./2026/01/2026-01-01.md)
 
 ### 2025
 

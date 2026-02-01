@@ -1,4 +1,4 @@
-## Updated on 2026.01.31
+## Updated on 2026.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,13 +41,10 @@
 |**2026-01-09**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309](http://arxiv.org/abs/2601.02309)|null|
 |**2026-01-05**|**Differential Barometric Altimetry for Submeter Vertical Localization and Floor Recognition Indoors**|Yuhang Zhang et.al.|[2601.02184](http://arxiv.org/abs/2601.02184)|null|
 |**2026-01-03**|**VISO: Robust Underwater Visual-Inertial-Sonar SLAM with Photometric Rendering for Dense 3D Reconstruction**|Shu Pan et.al.|[2601.01144](http://arxiv.org/abs/2601.01144)|null|
-|**2025-12-28**|**RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization**|Wei-Tse Cheng et.al.|[2601.00705](http://arxiv.org/abs/2601.00705)|null|
 |**2026-01-02**|**Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation**|Varun Agrawal et.al.|[2601.00545](http://arxiv.org/abs/2601.00545)|null|
 |**2026-01-01**|**FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM**|Yuchen Wu et.al.|[2512.25008](http://arxiv.org/abs/2512.25008)|null|
-|**2025-12-27**|**Mesquite MoCap: Democratizing Real-Time Motion Capture with Affordable, Bodyworn IoT Sensors and WebXR SLAM**|Poojan Vanani et.al.|[2512.22690](http://arxiv.org/abs/2512.22690)|null|
-|**2025-12-30**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393](http://arxiv.org/abs/2512.22393)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## SFM
 
@@ -63,9 +60,8 @@
 |**2026-01-11**|**Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**|Mohd Mujtaba Akhtar et.al.|[2601.07064](http://arxiv.org/abs/2601.07064)|null|
 |**2026-01-11**|**SARA: Scene-Aware Reconstruction Accelerator**|Jee Won Lee et.al.|[2601.06831](http://arxiv.org/abs/2601.06831)|null|
 |**2026-01-09**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|null|
-|**2025-12-31**|**3D Semantic Segmentation for Post-Disaster Assessment**|Nhut Le et.al.|[2512.24593](http://arxiv.org/abs/2512.24593)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -101,14 +97,8 @@
 |**2026-01-06**|**Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM**|Wenzheng Zhang et.al.|[2601.02723](http://arxiv.org/abs/2601.02723)|null|
 |**2026-01-07**|**Comparative Analysis of Binarization Methods For Medical Image Hashing On Odir Dataset**|Nedim Muzoglu et.al.|[2601.02564](http://arxiv.org/abs/2601.02564)|null|
 |**2026-01-05**|**Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach**|Biao Wu et.al.|[2601.00388](http://arxiv.org/abs/2601.00388)|null|
-|**2025-12-31**|**OCP-LS: An Efficient Algorithm for Visual Localization**|Jindi Zhong et.al.|[2512.24552](http://arxiv.org/abs/2512.24552)|null|
-|**2025-12-30**|**Geometric Multi-Session Map Merging with Learned Local Descriptors**|Yanlong Ma et.al.|[2512.24384](http://arxiv.org/abs/2512.24384)|null|
-|**2025-12-29**|**Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation**|Guo Ye et.al.|[2512.23864](http://arxiv.org/abs/2512.23864)|null|
-|**2025-12-29**|**MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning**|Jiawei Chen et.al.|[2512.23412](http://arxiv.org/abs/2512.23412)|null|
-|**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al.|[2512.23227](http://arxiv.org/abs/2512.23227)|null|
-|**2025-12-28**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -125,7 +115,7 @@
 |**2025-12-03**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2512.03684](http://arxiv.org/abs/2512.03684)|null|
 |**2025-11-27**|**3D Affordance Keypoint Detection for Robotic Manipulation**|Zhiyang Liu et.al.|[2511.22195](http://arxiv.org/abs/2511.22195)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## Image Matching
 
@@ -142,7 +132,7 @@
 |**2026-01-05**|**Exact Clique Number Manipulation via Edge Interdiction**|Yi Zhou et.al.|[2601.01869](http://arxiv.org/abs/2601.01869)|null|
 |**2025-12-31**|**Quantum Visual Word Sense Disambiguation: Unraveling Ambiguities Through Quantum Inference Model**|Wenbo Qiao et.al.|[2512.24687](http://arxiv.org/abs/2512.24687)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## NeRF
 
@@ -167,9 +157,8 @@
 |**2026-01-15**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](http://arxiv.org/abs/2601.03869)|null|
 |**2026-01-04**|**EdgeNeRF: Edge-Guided Regularization for Neural Radiance Fields from Sparse Views**|Weiqi Yu et.al.|[2601.01431](http://arxiv.org/abs/2601.01431)|null|
 |**2026-01-01**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](http://arxiv.org/abs/2601.00207)|null|
-|**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](http://arxiv.org/abs/2512.24763)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
